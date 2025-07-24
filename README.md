@@ -35,24 +35,6 @@ My work focuses on:
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SourabSB&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SourabSB&theme=radical" alt="Streak Stats" />
-</p>
-
----
-
-### 🧮 Visitors Badge
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SourabSB&style=flat-square&color=blue" alt="Profile views"/>
-</p>
-
----
-
 ### 🎯 Motto
 
 > “Make AI accessible to every language — one assistant at a time.”  
