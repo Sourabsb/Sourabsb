@@ -1,30 +1,50 @@
-<h1 align="center">Hey there! I'm Sourab 👋</h1>
+<h1 align="center">Hi 👋, I'm Sourab Singh Bora</h1>
+
 <p align="center">
-  🤖 AI/ML Engineer | 🧠 LLM & NLP Enthusiast | 🌐 Building Language-First Assistants  
+  <em>AI/ML Engineer | LLMs, NLP, and Language Assistants Enthusiast</em>
 </p>
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 About Me
 
-I'm an **AI/ML Engineer** passionate about building intelligent assistants, especially for underrepresented languages like **Kumaoni** 🗣️.  
-My work focuses on:
+Hi! I'm Sourab Singh Bora, an AI/ML engineer from Uttarakhand 🇮🇳.
+I enjoy exploring how language and intelligence can come together to create tools that truly help people — especially those in low-resource or regional communities.
 
-- 🧠 Fine-tuning **LLMs** (e.g. Phi-2, Qwen2) on custom conversational datasets  
-- 🔗 Integrating **RAG + LangChain** for real-time factual assistants  
-- 🎙️ Building voice-based AI using **Whisper**, **TTS**, and lightweight models  
-- 🌐 Promoting Kumaoni through culturally grounded multilingual AI systems  
+I like working on practical, end-to-end AI systems — not just training models, but also deploying them, evaluating them, and making them speak your language.
+When I'm not coding, I’m usually thinking about how to make tech more accessible to people who don’t speak English.
 
 ---
 
-### 🌱 Currently Working On
+### 🔧 What I'm Working On
 
-- `Pahadi-Bot-Kumaoni`: A real-time Kumaoni voice assistant with RAG and LLMs  
-- `Prompt Quality Evaluator`: A bilingual (Hindi–English) tool for evaluating LLM prompts and responses  
-- High-quality English–Kumaoni dataset creation (includes audio + speaker metadata)  
-- Fine-tuning compact LLMs using QLoRA and LoRA for efficient deployment  
+- 🤖 Building a unified AI assistant that understands **Kumaoni**, **Hindi**, and **English**, capable of both text and voice interaction.
+- 📚 Using **LangChain**, **Whisper**, **FAISS**, and **LoRA** to create grounded, memory-aware assistants with real-time factual updates.
+- 💬 Fine-tuning small LLMs like **Phi-2**, **Qwen**, and **GPT-2** for conversational performance on custom datasets.
+- 🧠 Making AI systems that not only generate responses — but also reason, decide, and self-correct.
 
 ---
+
+### 🌍 Language Dataset Contributions
+
+- 🗂️ Created a custom **Kumaoni language dataset** featuring:
+  - English + Kumaoni (Devanagari) + Roman Kumaoni + Audio support  
+  - Gender tags for TTS clarity
+- 🔄 Also released a **9500+ entry translation dataset**:
+  - High-quality sentence pairs: **English ⇄ Kumaoni**
+  - Suitable for translators, alignment models, and fine-tuning
+
+---
+
+### 💡 Current Interests
+
+- LLM Evaluation & Feedback Loops  
+- Multilingual AI and Low-Resource NLP  
+- RAG Pipelines + Real-time Augmented Generation  
+- Building assistants that “listen → think → respond”
+
+---
+
 
 ### 📫 Connect with Me
 
@@ -37,4 +57,4 @@ My work focuses on:
 
 ### 🎯 Motto
 
-> “Make AI accessible to every language — one assistant at a time.”  
+> “Make AI accessible to every language”  
