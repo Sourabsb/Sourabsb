@@ -48,8 +48,8 @@ When I'm not coding, I’m usually thinking about how to make tech more accessib
 
 ### 📫 Connect with Me
 
-- ✉️ Email: sourabsinghbora@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sourabsinghbora/)  
+- ✉️ Email: borasourabsingh@gmail.com  
+- 🔗 [LinkedIn](www.linkedin.com/in/sourab-singh-bora-3b896424b)  
 - 🧠 [Kaggle](https://www.kaggle.com/sourabsinghbora)  
 - 🤗 [Hugging Face](https://huggingface.co/sourabsb)  
 
