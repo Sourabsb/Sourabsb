@@ -20,7 +20,7 @@ When I'm not coding, I’m usually thinking about how to make tech more accessib
 
 - 🤖 Building a unified AI assistant that understands **Kumaoni**, **Hindi**, and **English**, capable of both text and voice interaction.
 - 📚 Using **LangChain**, **Whisper**, **FAISS**, and **LoRA** to create grounded, memory-aware assistants with real-time factual updates.
-- 💬 Fine-tuning small LLMs like **Phi-2**, **Qwen**, and **GPT-2** for conversational performance on custom datasets.
+- 💬 Fine-tuning small LLMs like **bty5** for translation performance on custom datasets.
 - 🧠 Making AI systems that not only generate responses — but also reason, decide, and self-correct.
 
 ---
